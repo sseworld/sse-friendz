@@ -2,7 +2,7 @@ import { initializeApp } from 'firebase/app';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyB4NMdh5Ol29EjdgMPlibNTpVsqwXdZSLs',
+  apiKey: 'API_KEY',
   authDomain: 'sse-world.firebaseapp.com',
   projectId: 'sse-world',
   storageBucket: 'sse-world.appspot.com',
